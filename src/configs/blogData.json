@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        
+        "title":"Believe in Yourself",
+        "description":"Believe in Yourself by Dr. Joseph Murphy, first published in 1955, shows you how the power of believing in yourself will help you achieve your dreams. He illustrates his points with wonderful stories about how inventors, writers, artists and entrepreneurs have used this power to reach the highest of heights.",
+        "content":"Many Answer to your many Question",
+        "author":"Dr. Joseph Murphy",
+        "publishedDate":"1955"
+
+       
+    },
+    {
+        "id":"2",
+        
+        "title":"Shuggie Bain",
+        "description":"Set in a poverty-stricken Glasgow in the early 1980s, Douglas Stuart’s Booker Prize-winning debut is a heartbreaking story which lays bare the ruthlessness of poverty and the limits of love. Agnes Bain has always dreamed of greater things, but when her husband abandons her she finds herself trapped in a decimated mining town with her three children, and descends deeper and deeper into drink. Her son Shuggie tries to help Agnes long after her other children have fled, but he too must abandon her to save himself. Shuggie is different, and he is picked on by the local children and condemned by adults. But he believes that if he tries his hardest he can escape this hopeless place. ",
+        "author":"Douglas Stuart",
+        "publishedDate":"1980"
+    },
+    {
+        "id":"3",
+        
+        "title":"Blood Meridian",
+        "description":"Written in 1985, Blood Meridian is set in the anarchic world opened up by America’s westward expansion. Through the hostile landscape of the Texas–Mexico border wanders the Kid, a fourteen year-old Tennessean who is quickly swept up in the relentless tide of blood. But the apparent chaos is not without its order: while Americans hunt Indians – collecting scalps as their bloody trophies  they too are stalked as prey. Powerful, mesmerizing and savagely beautiful, Blood Meridian is considered one of the most important works in American fiction of the last century ",
+        "author":"by Cormac McCarthy ",
+        "publishedDate":"1985"
+    },
+    {
+        "id":"4",
+        
+        "title":"The Line of Beauty",
+        "description":"This Booker Prize-winning novel bottles the essence of the 1980s, as the story follows a quest for beauty against a backdrop of politics, greed and friendships turned toxic. When twenty-year-old Nick Guest moves into an attic room in the Notting Hill home of the wealthy Feddens he is innocent of politics and money. But as he is swept up into the Feddens' world, Nick must confront the collisions between his own desires, and a world he can never truly belong to. Alan Hollinghurst's writing style is both stripped back and poetic, and its sensitivity makes this book a true standout.  ",
+        "author":"by Alan Hollinghurst ",
+        "publishedDate":"1980"
+    }
+]
