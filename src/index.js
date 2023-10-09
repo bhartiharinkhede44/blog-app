@@ -3,18 +3,15 @@ import './index.css';
 import ReactDOM from 'react-dom/client';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Home from "./views/Home/Home";
+
 import Post from "./views/Post/Post"
 import ReadPost from "./views/ReadPost/ReadPost"
 
 
 const router = createBrowserRouter([
+   
     {
-        path: "/",
-        element: <Home />
-    },
-    {
-        path:"/post",
+        path:"/",
         element:<Post/>
     },
     {
